@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+body{font-size:20px; font-family:arial; color:rgb(37, 91, 240); font-size:30px; font-weight:bold;}
+			#wrapper{width:1000px; margin:0 auto;}
+			
+			/* header */
+			#header{}
+				#header h1{float:left; margin-top:10px; width: 300px; height: 100px;}
+				#header ul{clear:both; position:relative; top:-55px; left:250px;}
+				.Navi1 {position:absolute; top:23px; color:skyblue; font-size:30px; font-weight:bold;}
+				.Navi1 li{float:left;}
+				.Navi2 {position:absolute; margin-left:550px;}
+				.Navi2 li{float:left; margin-top:-35px;}
+			/* header End */ 
+
+			/* body */
+			/* Today Artist */
+				.today {margin-left:20px; margin-bottom:10px;}
+				.today li{margin-top:-15px; margin-bottom:10px; margin-left:900px; color:black; font-size:15px; font-weight:bold;}
+				.today0{margin-left:20px; color:black; font-size:20px; font-weight:bold;}
+				.today00{margin-left:20px; color:black; font-size:20px; font-family: 굴림;}
+
+				.today1 {margin-left:510px; margin-top:-320px; margin-bottom:5px;}
+				.today1 li{margin-top:-15px; margin-bottom:10px; margin-left:900px; color:black; font-size:15px; font-weight:bold;}
+				.today11 {margin-left:515px; color:black; font-size:20px; font-weight:bold;}
+				.today111 {margin-left:515px; color:black; font-size:20px; font-family: 굴림;}
+			/* Today Artist End */
+
+			/* My Artist */
+				.my{margin-left:20px; margin-bottom:10px; margin-top:50px;}
+				.my li{margin-top:-10px; margin-bottom:10px; margin-left:900px; color:black; font-size:15px; font-weight:bold;}
+				.my_0{margin-left:65px; font-size:25px; color:black; font-size:30px; font-weight:bold;}
+
+				.my1{margin-left:210px; margin-bottom:5px; margin-top:-250px;}
+				.my11{margin-left:230px; margin-top:-12px; font-size:25px; color:black; font-size:30px; font-weight:bold;}
+				
+				.my2{margin-left:410px; margin-bottom:5px; margin-top:-240px;}
+				.my22{margin-left:430px; margin-top:17px; font-size:25px; color:black; font-size:30px; font-weight:bold;}
+				
+				.my3{margin-left:610px; margin-bottom:5px; margin-top:-235px;}
+				.my33{margin-left:625px; margin-top:12px; font-size:25px; color:black; font-size:30px; font-weight:bold;}
+
+				.my4{margin-left:810px; margin-bottom:5px; margin-top:-230px;}
+				.my44{margin-left:880px; margin-top:8px; margin-bottom:80px; font-size:25px; color:black; font-size:30px; font-weight:bold;}
+			/* My Artist  End */
+
+			/* New Goods */
+			.goods{margin-left:20px; margin-bottom:20px;}
+			.goods1{margin-left:20px;}
+			.goods li{margin-top:-10px; margin-bottom:10px; margin-left:420px; color:black; font-size:15px; font-weight:bold;}
+			/* New Goods End */
+
+			/* Hot Community */
+			.hot li{margin-top:-11px; margin-bottom:10px; margin-left:420px; color:black; font-size:15px; font-weight:bold;}
+			.hot{margin-top:-625px; margin-bottom:15px; margin-left:510px; font-weight:bold;}
+
+			.hot0{margin-top:-5px; margin-left:510px;}
+			.hot00{margin-top:-91px; margin-left:630px; color:black; font-size:15px;}
+
+			.hot1{margin-top:24px; margin-left:510px;}
+			.hot11{margin-top:-86px; margin-left:630px; color:black; font-size:15px;}
+
+			.hot2{margin-top:39px; margin-left:510px;}
+			.hot22{margin-top:-91px; margin-left:630px; color:black; font-size:15px;}
+
+			.hot3{margin-top:44px; margin-left:510px;}
+			.hot33{margin-top:-91px; margin-left:630px; color:black; font-size:15px;}
+
+			.hot4{margin-top:44px; margin-left:510px;}
+			.hot44{margin-top:-91px; margin-left:630px; color:black; font-size:15px;}
+			/* Hot Community End */
+
+			/* footer */
+			.footer0{margin-top:50px;}
+			.footer{text-align: right; margin-top:-230px; margin-right:210px; color:white; font-size:15px;}
+			.footer1{text-align: right; margin-top:-20px; margin-right:190px; color:white; font-size:15px;}
+			.footer2{text-align: right; margin-top:-20px; margin-right:30px; color:white; font-size:15px;}
+			.footer3{text-align: center; margin-top:30px; color:white; font-size:15px; font-family: HYHeadLine-Medium;}
+			/* footer End */
